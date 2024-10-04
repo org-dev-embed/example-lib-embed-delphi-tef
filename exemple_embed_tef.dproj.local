@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/17 16:37:38.000.712,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/17 16:39:40.000.479,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/17 16:39:57.000.999,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\andre\Desktop\embed_delphi_tef\mainForm.dfm</Transaction>
+    <Transaction>2024/09/17 16:39:57.000.999,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\andre\Desktop\embed_delphi_tef\mainForm.pas</Transaction>
+    <Transaction>2024/09/17 16:48:39.000.328,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/17 16:49:09.000.260,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\andre\Desktop\embed_delphi_tef\libEmbed.pas</Transaction>
+    <Transaction>2024/09/17 20:10:58.000.612,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\andre\Desktop\embed_delphi_tef\embedTef.dproj</Transaction>
+    <Transaction>2024/09/23 13:45:53.000.971,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\libEmbed.pas=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\EmbedLib.pas</Transaction>
+    <Transaction>2024/10/02 15:06:59.000.197,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\EmbedLib.pas=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embed_lib.pas</Transaction>
+    <Transaction>2024/10/02 15:14:59.000.062,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\exemple_embed_tef.dproj=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embedTef.dproj</Transaction>
+    <Transaction>2024/10/02 15:15:43.000.600,=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 15:16:00.000.646,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embed_api.pas=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 17:00:58.000.824,=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit2.pas</Transaction>
+    <Transaction>2024/10/02 17:01:17.000.424,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit2.pas=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embed_ui.pas</Transaction>
+    <Transaction>2024/10/02 17:01:17.000.424,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit2.dfm=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embed_ui.dfm</Transaction>
+    <Transaction>2024/10/02 17:03:50.000.690,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\mainForm.pas=</Transaction>
+    <Transaction>2024/10/02 17:22:54.000.810,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embed_ui.pas=</Transaction>
+    <Transaction>2024/10/02 17:23:57.000.993,=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 17:26:51.000.763,=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 17:27:03.000.958,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit1.pas=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embed_ui.pas</Transaction>
+    <Transaction>2024/10/02 17:27:03.000.958,C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\Unit1.dfm=C:\Users\osmar.goncalves\Repos\demo\example-lib-embed-delphi-tef\embed_ui.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
