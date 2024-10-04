@@ -1,4 +1,4 @@
 __history/
 __recovery/
-.local
-.identcache
+*.local
+*.identcache
