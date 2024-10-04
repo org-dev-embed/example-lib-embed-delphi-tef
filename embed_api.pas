@@ -42,10 +42,10 @@ begin
   var Produto := 'tef';
   var SubProduto := '1';
   var Timeout := '300';
-  var CodigoAtivacao := '476333913';  // informação fornecida pelo time de integração
-  var NomeApp := 'ogj13 ldta';        // informação da AC
-  var VersaoApp := '1.0.0';           // informação da AC
-  var TextoPinpad := 'ogj13';        // informação da AC
+  var CodigoAtivacao := '';  // informaÃ§Ã£o fornecida pelo time de integraÃ§Ã£o
+  var NomeApp := '';        // informaÃ§Ã£o da AC
+  var VersaoApp := '';           // informaÃ§Ã£o da AC
+  var TextoPinpad := '';        // informaÃ§Ã£o da AC
   var Input := Produto + ';'
             + SubProduto + ';'
             + Timeout + ';'
