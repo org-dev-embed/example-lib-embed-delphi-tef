@@ -1,4 +1,4 @@
-unit embed_api;
+﻿unit embed_api;
 
 interface
 
@@ -42,10 +42,10 @@ begin
   var Produto := 'tef';
   var SubProduto := '1';
   var Timeout := '300';
-  var CodigoAtivacao := '';  // informação fornecida pelo time de integração
-  var NomeApp := '';        // informação da AC
-  var VersaoApp := '';           // informação da AC
-  var TextoPinpad := '';        // informação da AC
+  var CodigoAtivacao := '';   // informação fornecida pelo time de integração
+  var NomeApp := '';          // informação da AC
+  var VersaoApp := '';        // informação da AC
+  var TextoPinpad := '';      // informação da AC
   var Input := Produto + ';'
             + SubProduto + ';'
             + Timeout + ';'

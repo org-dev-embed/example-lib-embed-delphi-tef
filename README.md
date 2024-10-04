@@ -25,9 +25,9 @@ Acessar o diretório, abrir o projeto na IDE do Delphi
 ### Sobre o exemplo
 Este exemplo contem três itens fundamentais:
 
-embed_lib.pas: carregamemento das bibliotecas
-embed_api.pas: utilização dos métodos para transações/operações com TEF
-embed_ui.pas: interface gráfica simplificada que consome os métodos
+- embed_lib.pas: carregamemento das bibliotecas
+- embed_api.pas: utilização dos métodos para transações/operações com TEF
+- embed_ui.pas: interface gráfica simplificada que consome os métodos
 
 ## API
 
