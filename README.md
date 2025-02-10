@@ -78,7 +78,7 @@ Pode ser parametrizado de duas maneiras:
 ```
 2. Metaparâmetro (obedecendo a sequência)
 ```c
-"tef;1;300;codigo_ativacao;token_autorizacao;nome_app;versao_app;texto_pinpad"
+"tef;1;300;codigo_ativacao;nome_app;versao_app;texto_pinpad"
 ```
 
 ###### 1.2.2. Output
