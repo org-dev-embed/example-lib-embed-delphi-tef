@@ -69,7 +69,6 @@ Pode ser parametrizado de duas maneiras:
         "infos": {
             "timeout": "300",
             "codigo_ativacao": "",      // gerado pelo time de integração
-            "token_autorizacao": "",    // gerado pelo time de integração
             "nome_app": "",
             "versao_app": "",
             "texto_pinpad": "",
